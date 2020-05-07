@@ -1,5 +1,5 @@
 # python_for_datascience
-Python for Data Science
+Python for Data Science (Beginner Level)
 
 This repo will include the notebooks to know the foundation of data handling with python.
 
